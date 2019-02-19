@@ -1,4 +1,4 @@
-# Docker tutorial with examples
+# Docker tutorial with hands-on examples
 
 ## BLAST example
 ## RStudio server example
